@@ -4,7 +4,7 @@ Getting Started
 To get started with this project, follow these steps:
 
 Clone this repository:
-git clone https://github.com/your-username/memory-matching-game.git
+git clone https://github.com/RRajalakshmi24/matching_memory_game.git
 
 Navigate to the project directory:
 cd memory-matching-game
